@@ -2,7 +2,13 @@ iOS Workflow
 ============
 
 A lightweight workflow component for iOS applications.
+
 This code is made available under the MIT license.
+
+This code has been tested on iOS 5.1 iOS 6.1.
+
+The source code includes a demonstration of using the Workflow component, see DEMOViewController.m for details.
+
 All of the files that you should add to your project are in the Workflow subdirectory, and are prefixed with <b>JAS</b>.
 
 Why use a workflow?
