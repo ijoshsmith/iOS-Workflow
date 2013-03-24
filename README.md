@@ -3,6 +3,7 @@ iOS Workflow
 
 A lightweight workflow component for iOS applications.
 This code is made available under the MIT license.
+All of the files that you should add to your project are in the Workflow subdirectory, and are prefixed with <b>JAS</b>.
 
 Why use a workflow?
 ===================
