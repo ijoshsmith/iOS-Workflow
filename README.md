@@ -5,11 +5,18 @@ A lightweight workflow component for iOS applications.
 
 This code is made available under the MIT license.
 
-This code has been tested on iOS 5.1 iOS 6.1.
+This code has been tested on iOS 5.1 iOS 6.1. Requires ARC is enabled.
 
 The source code includes a demonstration of using the Workflow component, see DEMOViewController.m for details.
 
 All of the files that you should add to your project are in the Workflow subdirectory, and are prefixed with <b>JAS</b>.
+
+Documentation
+=============
+
+Refer to Josh Smith's blog for an in-depth overview of this project.
+
+http://ijoshsmith.com/2013/03/24/objective-c-workflow-for-ios-apps/
 
 Why use a workflow?
 ===================
